@@ -1,18 +1,27 @@
-# 💻 Prácticas de Python y SQL
+# 👋 Hola, soy Geanfranco Gallardo
 
-Repositorio con ejercicios prácticos orientados a objetos en Python y consultas SQL aplicadas, como parte de mi formación hacia el rol de Data Engineer Junior.
+🎯 Aspirante a **Data Engineer Junior** | Formación en Ingeniería Electrónica  
+🛠️ Automatizo datos con **Python**, estructuro consultas con **SQL**, manejo datos geoespaciales con **GIS**  
+🌎 Apasionado por datos físicos e industriales  
+📚 Aprendiendo **AWS (S3, Lambda)** · **Git** · **pipelines de datos**
 
-## 📁 Contenido
+---
 
-### 🐍 Python
-1. `Ejercicio_Fabrica.py`: uso de clases, herencia y lógica condicional para simular una fábrica de vehículos.
-2. `Clases&Herencia.py`: herencia y sobreescritura de métodos en un modelo marino con Pulpo y Foca.
-3. `Polimorfismo.py`: Herencia y Polimorfismo van de la mano. Aplico lo aprendido con un pequeño ejercicio.
+## 📂 Proyectos destacados
 
-### 🗃️ SQL
-1. `Ejercicios_CHATGPT.sql`: consultas usando JOINs, agregaciones y filtros sobre datos relacionales.
-2. `PracticaLaboral_SQL.py`: Un pequeño ejercicio emulando una practica laboral.
+- **python-sql-practice** – Ejercicios de OOP en Python y consultas SQL SQL Server/SQLite  
+- **python-sqlite-automation** – Automatización real de datos con Python + SQLite  
+ 
 
-## 📌 Tecnologías usadas
-- Python 3
-- SQL (SQLite / SQL Server)
+---
+
+## 📈 Estadísticas recientes
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GCGeanfranco&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GCGeanfranco&show_icons=true)
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+📧 ggallardo.pe.sa@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/gcgeanfranco)

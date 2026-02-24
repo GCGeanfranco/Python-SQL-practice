@@ -1,27 +1,33 @@
 # 👋 Hola, soy Geanfranco Gallardo
 
-🎯 Aspirante a **Data Engineer Junior** | Formación en Ingeniería Electrónica  
-🛠️ Automatizo datos con **Python**, estructuro consultas con **SQL**, manejo datos geoespaciales con **GIS**  
-🌎 Apasionado por datos físicos e industriales  
-📚 Aprendiendo **AWS (S3, Lambda)** · **Git** · **pipelines de datos**
+## 🚀 About Me
+Cloud Engineer en formación con base sólida en redes (CCNA 1, 2, 3) y fundamentos de TI. 
+Enfocado en infraestructura, aws y automatización.
 
----
+Actualmente fortaleciendo habilidades en:
+- Linux
+- Redes empresariales
+- AWS
+- Cloud Computing
 
-## 📂 Proyectos destacados
+## 🧠 Certifications
+- IT Essentials – Cisco Networking Academy (2022)
+- CCNA 1: Introduction to Networks (2022)
+- CCNA 2: Switching, Routing and Wireless Essentials (2023)
+- CCNA 3: Enterprise Networking, Security and Automation (2023)
 
-- **python-sql-practice** – Ejercicios de OOP en Python y consultas SQL SQL Server/SQLite  
-- **python-sqlite-automation** – Automatización real de datos con Python + SQLite  
- 
+## 🛠️ Tech Stack
+- Networking: VLANs, Routing, Subnetting, OSPF, ACLs
+- Systems: Linux (Ubuntu), Windows Server
+- Tools: Git, Bash
 
----
 
-## 📈 Estadísticas recientes
+## 📈 Current Goals
+- Aprender servicios más utilizados de AWS
+- Automatización con Python
+- Infraestructura como código (Terraform)
+- Contenedores (Docker)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GCGeanfranco&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GCGeanfranco&show_icons=true)
-
----
-
-## 📫 ¿Cómo contactarme?
-
-📧 ggallardo.pe.sa@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/gcgeanfranco)
+## 📫 Contact
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/gcgeanfranco)
+Email: ggallardo.pe.sa@gmail.com

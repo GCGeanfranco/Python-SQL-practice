@@ -7,7 +7,7 @@ Enfocado en infraestructura, aws y automatización.
 Actualmente fortaleciendo habilidades en:
 - Linux
 - Redes empresariales
-- AWS
+- Azure&AWS
 - Cloud Computing
 
 ## 🧠 Certifications
@@ -23,7 +23,7 @@ Actualmente fortaleciendo habilidades en:
 
 
 ## 📈 Current Goals
-- Aprender servicios más utilizados de AWS
+- Aprender Azure&AWS
 - Automatización con Python
 - Infraestructura como código (Terraform)
 - Contenedores (Docker)
